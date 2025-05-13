@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lalit Patil</h1>
-<h3 align="center">A passionate Int. b.tech Computer Science Student</h3>
+<h1 align="center">Hi, I'm Lalit Patil</h1>
+<h3 align="center">A passionate Int. B.tech Computer Science Student</h3>
 
 - 🌱 I’m currently learning **javascript,nodejs**
 
